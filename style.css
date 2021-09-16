@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.drw-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.drw-container:hover {
+    cursor: none;
+}
+
+.drw-unit {
+    width: 1vw;
+    height: 1vh;
+}
+
+.drw-unit:hover {
+    background-color: black;
+}
